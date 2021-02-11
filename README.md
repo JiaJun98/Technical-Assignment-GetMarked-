@@ -24,4 +24,4 @@ The below screeshot shows my function social_distancing_checker, which takes in 
 ![List_of_Offenders](https://github.com/JiaJun98/Technical-Assignment-GetMarked-/blob/main/List_of_Offenders.JPG)
 
 ## Evaluation
-As we are using the library random, the list of offenders outputted will change each time we run the function
+As we are using the library <b>random</b>, the list of offenders outputted will change each time we run the function
